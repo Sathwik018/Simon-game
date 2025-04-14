@@ -1,3 +1,9 @@
+## 🌟 Live Demo
+🔗 [Play Game] :
+https://sathwik1811.netlify.app/
+
+
+
 Click "Play" on the intro screen.
 
 The game will flash a color in a sequence.
